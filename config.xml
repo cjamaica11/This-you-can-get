@@ -1,0 +1,22 @@
+<? Xml version = "1.0" encoding = "UTF-8"?>  
+     <Xmlns widgets    =  "http://www.w3.org/ns/widgets"Xmlns: brecha 
+           ="  http://phonegap.com/ns/1.0"Id 
+                  =" com.phonegap.example  
+        "versionCode  ="  10  
+              1.0.0  "> 
+
+    <! - VersionCode es opcional y sólo Android -> 
+
+    <nombre> This you can get</ name> 
+
+    <description> 
+        Un ejemplo para documentos de construcción PhoneGap. 
+    </ description> 
+
+    <autor  href = "https://build.phonegap.com"Email  =" support@phonegap.com"> 
+        Christian Jamaica
+    </ author> 
+    <Icono  src = "icon.png"  />
+        <gap:splash src="splash.png" />
+
+</ widget de>
